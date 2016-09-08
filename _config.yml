@@ -1,14 +1,13 @@
 # Site settings
 title: Ion
-email: your-email@domain.com
+email: claire.antel@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Let the sandwiches be known! This is documentation of sandwiches eaten on (but not exlcusive to)
+  our alpine adventures. It is all about the who, the what, and the wich!
 baseurl: "/the-sandwich-blog" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: cmoo_antel
+github_username:  cantel
 
 # Build settings
 markdown: kramdown

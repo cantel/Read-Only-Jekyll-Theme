@@ -35,7 +35,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #5fb66a !important;
 		}
 
 	strong, b {
@@ -195,7 +195,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #5fb66a;
 		font-size: 3.5em;
 	}
 
@@ -259,7 +259,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #5fb66a;
 		}
 
 	.select-wrapper {
@@ -370,7 +370,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #5fb66a;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -491,14 +491,14 @@
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 10%; /* change circle radius of avatar pic */
 			overflow: hidden;
 		}
 
 			.image.avatar img {
-				border-radius: 100%;
+				border-radius: 1%; /* change circle radius of avatar pic */
 				display: block;
-				width: 100%;
+				width: 110%;
 			}
 
 /* List */
@@ -562,7 +562,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #4acaa8;
+					background: #5fb66a;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -851,7 +851,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			background-color: #5fb66a;
 			color: #ffffff !important;
 		}
 
@@ -932,7 +932,7 @@
 /* Header */
 
 	#header {
-		background: #4acaa8;
+		background: #5fb66a;
 		color: #d1f1e9;
 		height: 100%;
 		position: fixed;
@@ -968,8 +968,8 @@
 
 			#header > header .avatar {
 				display: block;
-				margin: 0 auto 2.25em auto;
-				width: 8em;
+				margin: 0 auto 0.1em auto;
+				width: 20em;
 			}
 
 			#header > header h1 {
@@ -1026,7 +1026,7 @@
 
 					#header > nav ul li a.active, #header > nav ul li .cc-active {
 						background: #fff;
-						color: #4acaa8 !important;
+						color: #5fb66a !important;
 					}
 
 				#header > nav ul li:first-child {
