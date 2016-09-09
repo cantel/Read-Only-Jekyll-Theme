@@ -37,7 +37,7 @@
 					height: '100%',
 					animation: 'pushX',
 					position: 'top-right',
-					side: 'left',
+					side: 'right',
 					orientation: 'vertical',
 					clickToHide: true,
 					html: '<div data-action="moveElement" data-args="header"></div>'
