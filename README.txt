@@ -31,3 +31,16 @@ Credits:
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 		CSS3 Pie (css3pie.com)
 		skel (getskel.com)
+		
+The sandwich blog was compiled using
+	* jekyll theme "Read Only" (jekyllthemes.org)
+	* leaflet javasript library (for map)
+	* drawingboard javascript library - currenly not working
+	
+Install jekyll
+	* sudo gem install jekyll
+
+run 
+	* jekyll serve 
+to view blog on local host.
+	
