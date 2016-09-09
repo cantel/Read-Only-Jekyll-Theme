@@ -969,7 +969,7 @@
 			#header > header .avatar {
 				display: block;
 				margin: 0em auto 0em auto;
-				width: 25em; /* change avatar pic size here */
+				width: 10em; /* change avatar pic size here */
 			}
 
 			#header > header h1 {
