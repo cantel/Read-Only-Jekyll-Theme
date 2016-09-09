@@ -26,7 +26,7 @@ custom_js: leaflet
                     <div id="map" class="map leaflet-container" style="height: 500px; position:relative;"></div>
                     <script>
                     // create the map object and set the cooridnates of the initial view:
-                    var map = L.map('map').setView([46.2, 6.14], 10);
+                    var map = L.map('map').setView([46.2, 6.14], 5);
 
                     // create the tile layer with correct attribution:
                     L.tileLayer('http://{s}.tiles.mapbox.com/v3/jamesg87.goac2bf1/{z}/{x}/{y}.png', {
@@ -37,5 +37,11 @@ custom_js: leaflet
                     L.marker([46.233867, 6.0525579]).addTo(map)
                       .bindPopup('104 stoepwiches')
                       .openPopup();
+                    //post = site.posts[2]
+                    L.marker([45.904029, 6.423479]).addTo(map)
+                      .bindPopup("Brokeback Mountain Baguettes")//<a href="{{ site.baseurl }}{{ site.posts[2].url }}">{{ site.posts[2].title }}</a>)
+                      .openPopup();
+
                     </script>
+
                 </section>

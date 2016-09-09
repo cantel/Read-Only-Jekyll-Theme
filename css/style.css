@@ -35,7 +35,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #5fb66a !important;
+			color: #5c97bf !important;
 		}
 
 	strong, b {
@@ -195,7 +195,7 @@
 	}
 
 	header.major h2 {
-		color: #5fb66a;
+		color: #5c97bf;
 		font-size: 3.5em;
 	}
 
@@ -259,7 +259,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #5fb66a;
+			border-color: #5c97bf;
 		}
 
 	.select-wrapper {
@@ -370,7 +370,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #5fb66a;
+			border-color: #5c97bf;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -498,7 +498,7 @@
 			.image.avatar img {
 				border-radius: 1%; /* change circle radius of avatar pic */
 				display: block;
-				width: 110%;
+				width: 100%;
 			}
 
 /* List */
@@ -562,7 +562,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #5fb66a;
+					background: #5c97bf;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -851,7 +851,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #5fb66a;
+			background-color: #5c97bf;
 			color: #ffffff !important;
 		}
 
@@ -932,7 +932,7 @@
 /* Header */
 
 	#header {
-		background: #5fb66a;
+		background: #5c97bf;
 		color: #d1f1e9;
 		height: 100%;
 		position: fixed;
@@ -968,8 +968,8 @@
 
 			#header > header .avatar {
 				display: block;
-				margin: 0 auto 0.1em auto;
-				width: 20em;
+				margin: 0em auto 0em auto;
+				width: 25em; /* change avatar pic size here */
 			}
 
 			#header > header h1 {
@@ -1026,7 +1026,7 @@
 
 					#header > nav ul li a.active, #header > nav ul li .cc-active {
 						background: #fff;
-						color: #5fb66a !important;
+						color: #5c97bf !important;
 					}
 
 				#header > nav ul li:first-child {
