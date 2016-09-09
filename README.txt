@@ -32,6 +32,8 @@ Credits:
 		CSS3 Pie (css3pie.com)
 		skel (getskel.com)
 		
+view on https://cantel.github.io/the-sandwich-blog/		
+		
 The sandwich blog was compiled using
 	* jekyll theme "Read Only" (jekyllthemes.org)
 	* leaflet javasript library (for map)
