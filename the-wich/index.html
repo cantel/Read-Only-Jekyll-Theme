@@ -8,9 +8,6 @@ layout: default
             <article>
                 <header>
                     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                </header>
-                <section class="post-content">
-                    {{ post.excerpt }}
                 </section>
                 <section class="special">
                     <ul class="actions">
@@ -30,7 +27,7 @@ layout: default
                 <header>
                     <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
                 </header>
-                
+
                     {{ post.content | truncatewords: 30 }}
                 </section>
                 <footer>
