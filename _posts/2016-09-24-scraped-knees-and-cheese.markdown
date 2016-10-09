@@ -36,7 +36,7 @@ correctly it was eaten open-faced -- the thing was in Claire's belly too quickly
 details let alone make proper photographic documenation. 
 
 For myself I made a throwback sandwich: a plain baguette torn and split by hand,
-with pieces of 99% Lindt chocolate, a thick slice of Comte cheese (rind inclusive),
+with pieces of 99% Lindt chocolate, slices of dried sausage, a thick slice of Comte cheese (rind inclusive),
 and some climbing chalk to top it off.
 
 Dan, with climbing, belaying, and making sure no one was falling off the rock, was, as per usual,
