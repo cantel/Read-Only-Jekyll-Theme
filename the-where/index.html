@@ -34,13 +34,31 @@ custom_js: leaflet
                         maxZoom: 18
                     }).addTo(map);
                     // this is how you add markers to map with text pop up.
+                    //////////////////////////////////
+                    // 104
+                    //////////////////////////////////
                     L.marker([46.233867, 6.0525579]).addTo(map)
                       .bindPopup('104 stoepwiches')
                       .openPopup();
                     //post = site.posts[2]
+                    //////////////////////////////////
+                    // brokeback clusaz
+                    //////////////////////////////////
                     L.marker([45.904029, 6.423479]).addTo(map)
                       .bindPopup("Brokeback Mountain Baguettes")//<a href="{{ site.baseurl }}{{ site.posts[2].url }}">{{ site.posts[2].title }}</a>)
                       .openPopup();
+                    //////////////////////////////////
+                    // la joux
+                    //////////////////////////////////
+                    L.marker([45.964793, 6.9091411]).addTo(map)
+                        .bindPopup("Scraped knees and Cheese")
+                        .openPopup();
+                    ///////////////////////////////////
+                    // la tour / refuge albert
+                    ///////////////////////////////////
+                    L.marker([45.9966027, 6.9865859]).addTo(map)
+                        .bindPopup("La (Re)Tour")
+                        .openPopup();
 
                     </script>
 
