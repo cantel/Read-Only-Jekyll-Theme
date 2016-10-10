@@ -13,7 +13,7 @@ is a Prevessin brai on Friday, but if we didn't want to take part <b>"we better 
 
 So we had our orders, took stock and store, and we knew what the weekend would most likely entail: a trip to
 Chamonix, that wonderful valley. Come Saturday morning, Dan's Renault gathered us all
-(Dan, Claire, myself (Danny), and Kevin) and we head for Chamonix, making two pit stops: 
+(Dan, Claire, myself (Danny), and Kevin) and we head for Chamonix, making two pit stops along the way: 
 
 <ol>
     <li><b>Au Vieux Campeur</b> for some eye candy, cheap machine coffee, and climbing shoes for Kevin</li>
