@@ -3,7 +3,7 @@ title: La (Re)Tour
 layout: post
 ---
 
-<img src="{{ site.baseurl }}/images/beautiful_lunch_reprise.jpg" height="50%" width="50%">
+<img src="{{ site.baseurl }}/images/beautiful_lunch_reprise.jpg">
 
 After a long week's work there is nothing nicer than receiving a broadcast e-mail from Sam-wise
 declaring that a hut hike should be had.
