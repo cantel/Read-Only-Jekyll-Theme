@@ -5,6 +5,8 @@ custom_css: leaflet
 custom_js: leaflet
 ---
 
+<!--link for map locations: http://www.openstreetmap.org-->
+
 <section id="one" >
     <div class="container">
             <article>
@@ -58,6 +60,12 @@ custom_js: leaflet
                     ///////////////////////////////////
                     L.marker([45.9966027, 6.9865859]).addTo(map)
                         .bindPopup("La (Re)Tour")
+                        .openPopup();
+                    ///////////////////////////////////
+                    // gervasutti beauty
+                    ///////////////////////////////////
+                    L.marker([ 45.8759394, 7.0132543]).addTo(map)
+                        .bindPopup("Gervasutti Beautti")
                         .openPopup();
 
                     </script>
