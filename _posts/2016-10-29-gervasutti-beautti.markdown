@@ -100,7 +100,19 @@ down this valley, Gervasutti being beneath the <em>Petit</em> Jorasses.
 
 We parked at the edge of the river, began apportioning the food between our
 packs, "relieved" ourselves in the river, and began the hike. Gervasutti could
-not yet be spotted from the valley floor.
+not yet be spotted from the valley floor. We walked for about fifteen minutes
+before questioning our certainty of the trail, Sam and Dan already disregarding
+clear marked paths (that were on our map) for trails off-piste but in a more
+direct way towards the mountain. Within an hour we were out of the woods and
+traversing the bouldery moraine on the left edge of the valley-inlet at the
+vertex of which, some 700 meters above our heads at this point, lay the still
+out-of-sight hut. We had clearly diverged from the trail that Claire's map had
+for us, but there were plenty of cairnes around. Being themselves built up of
+small rocks they were difficult to spot from afar, so we hopped from one to the
+other in a fog-of-war of sorts in the warm Italian sun. We crossed to the right
+side of the valley-inlet and soon we knew we were on the correct path to the hut.
+
+
 
 
 
