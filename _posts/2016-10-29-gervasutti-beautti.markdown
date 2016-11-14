@@ -225,12 +225,14 @@ turkey and wine up a mountain? We just need the larger sized pots for Claire's a
 Sam's jet boils.
 
 We sat and chatted with each other and the two others for a bit
-before our appetites began to rise. We broke out our food. As Sam took
+before our appetites began to rise. We broke out our food. Sam took
 out all of the wine: some 3 liters (1.5 of which in a big plastic bottle) and
 a small bottle of champagne for Dan's birthday (Dan was not impressed at Sam's
-sacrifice of light baggage). As it turned out our fellow house-mates were
+sacrifice of light baggage) and I looked questioningly at the Italians.
+As it turned out our fellow house-mates were
 also not going to continue climbing up in the morning -- for once we were not
-the noisy mountain goers keeping everyone up -- and they, too, had brought
+the noisy mountain goers keeping everyone up and could while away the
+time at ease! -- and they, too, had brought
 a bottle of wine. All was put on the table on offer.
 
 
