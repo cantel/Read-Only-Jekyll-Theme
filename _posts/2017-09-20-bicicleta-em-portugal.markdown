@@ -1,7 +1,7 @@
-+---
-+title: Um, dois, três bicicletas em Portugal
-+layout: post
-+---
+---
+title: Um, dois, três bicicletas em Portugal
+layout: post
+---
 
 
 Winter was coming.
@@ -9,7 +9,7 @@ Winter was coming.
 So what better way to make summer last longer than head off to Portugal? Lucky for me, I got accepted to a High Energy Physics summer school in Évora. That meant 2 weeks of lectures every day, plus outreach projects, plus networking with other young PhD students and lecturers. Fun, but exhausting and I felt a Portugal holiday afterwards was well-deserved.
 It so happened that Dan and Josh were attending a conference in the north of Portugal. I convinced them to join in on my plans to do a biking trip in Lisbon surroundings after.
 
-I brought along my tent, a hammock, and a sleeping mat. I had rented out a mountain bike ahead of time (bro-tip: Bikeiberia headquarterd in Lisbon is an awesome mountain bike rental company. I recommend it, as they take great care of their bikes and are very flexible. Just don't pitch up with loads of luggage as their shop is tiny.). My plan was to just get on the bike and wing it from Lisbon out along the coast, aiming for campsites along the way. Three days later Dan and Josh would join me.
+I brought along my tent, a hammock, and a sleeping mat. I had rented out a mountain bike ahead of time (bro-tip: Bikeiberia headquartered in Lisbon is an awesome mountain bike rental company. I recommend it, as they take great care of their bikes and are very flexible. Just don't pitch up with loads of luggage as their shop is tiny.). My plan was to just get on the bike and wing it from Lisbon out along the coast, aiming for campsites along the way. Three days later Dan and Josh would join me.
 
 So come Thursday, after getting a good nights sleep in a dark and dodgy hostel room in Lisbon, I had the bike packed, took the ferry across to Seixal and started biking South. I was aiming for Setúbal.
 
@@ -19,7 +19,7 @@ Arràbida Park was seriously hilly. I had an epic energy crash whilst paddling u
 Gliding down the other side towards the coast was glorious though!
 
 <img src="{{ site.baseurl }}/images/portugal/arrabida.jpg" height="30%" width="30%">
-^Parque Natural da Arrábida. Gliding down ro the coast was a thrill.
+^Parque Natural da Arrábida. Gliding down to the coast was a thrill.
 <img src="{{ site.baseurl }}/images/portugal/arrabida_withbike.jpg" height="30%" width="30%">
 
 I stopped at a campsite on the coast there, Ecoparque Do Outão, thinking, wow, I was making good time. Turns out they only accept caravans these days. I instead got directions to the next nearest campsite. I worryingly glanced at the sun dipping closer to the horizon.
@@ -65,7 +65,7 @@ I won't lie I was overjoyed to be with people again when I met Josh and Dan - on
 
 It took us a day to get sorted and plan Part II of our trip: the Sintra-Cascais region.
 
-The first day was a pleasant straightforward ride along the coast to the Sintra-Cascais Natural Park. We got lucky, as that day the roads had been closed to cars, and access given to all bikers and pedestrians. Wonderful!
+The first day was a pleasant straightforward ride along the coast to the Sintra-Cascais Natural Park. We got lucky, as that day the roads had been closed off to cars, and access given to all bikers and pedestrians. Wonderful!
 
 <img src="{{ site.baseurl }}/images/portugal/joshie.jpg" height="30%" width="30%">
 ^It seemed to me Joshie did not resist much when he toppled over. Does he not look rather content?  
@@ -74,13 +74,13 @@ We arrived at our camp site, Orbitur Guincho, later that afternoon, with plenty 
 
 The next day we crossed into the natural park. It's a steady hilly challenge but enjoyable. We stopped to make some sandwiches that afternoon and started worrying about where we were going to sleep. It was astoundingly difficult to track down a campsite. We were met by a bolted gate at one and a confused Portuguese woman at another. We ended up getting as far as the town of Sintra itself when, after a hostel told us they and other hostels were fully booked out, we admitted defeat and ended up renting an apartment for the next 2 nights. That warm Portuguese evening found us doing the opposite of roughing it: standing on our balcony, sipping wine.
 
-<img src="{{ site.baseurl }}/images/portugal/finalchallenge.jpg" height="30%" width="30%">
-^We hit a hill leading to the town of Sintras, still looking for a place to sleep that night.
+<img src="{{ site.baseurl }}/images/portugal/finalchallenge.jpg" height="30%" width="30%" alt>
+<em> We hit a hill leading to the town of Sintras, still looking for a place to sleep that night. </em>
 
 The following day we decided we've been treating ourselves too well, and took a gruelling bike ride up to the mustard yellow palace of Sintra. We even ended up finding an off-road track to race back down on again.
 
 <img src="{{ site.baseurl }}/images/portugal/mustardpalace.jpg" height="30%" width="30%">
-^The mustard palace of Sintras.
+<em> The mustard palace of Sintras. </em>
 
  Just before dusk we managed to find a single pitch climbing area underneath Sintra's Moorish castle. We still talk of Josh's climbing move that involved basically plonking down - mid climbing struggle - on the cliff wall, as Josh tends to do everywhere, to take a rest.
 
