@@ -19,7 +19,7 @@ Arràbida Park was seriously hilly. I had an epic energy crash whilst paddling u
 Gliding down the other side towards the coast was glorious though!
 
 <img src="{{ site.baseurl }}/images/portugal/arrabida.jpg" height="30%" width="30%">
-^Parque Natural da Arrábida. Gliding down to the coast was a thrill.
+<em> Parque Natural da Arrábida. Gliding down to the coast was a thrill.</em>
 <img src="{{ site.baseurl }}/images/portugal/arrabida_withbike.jpg" height="30%" width="30%">
 
 I stopped at a campsite on the coast there, Ecoparque Do Outão, thinking, wow, I was making good time. Turns out they only accept caravans these days. I instead got directions to the next nearest campsite. I worryingly glanced at the sun dipping closer to the horizon.
@@ -31,44 +31,44 @@ I got to my campsite and happily pitched my tent. Camping next to me were two Ge
 Having not had any time to get food anywhere, I again opened up my emergency stash and made a simple sandwich with slabs of chocolate. I got to chow it at sunset - good timing!
 
 <img src="{{ site.baseurl }}/images/portugal/sunsetsandwich1.jpg" height="30%" width="30%">
-^Sunset sandwich # 1: 'emergency' bread with a generous slab of chocolate. I dared use my mobile battery to whatsapp Josh and Dan at that point, gushing with relief. At the time they were feasting on conference food and wine, confused why I sounded so happy about having arrived somewhere to enjoy a sandwich.
+<em> Sunset sandwich # 1: 'emergency' bread with a generous slab of chocolate. I dared use my mobile battery to whatsapp Josh and Dan at that point, gushing with relief. At the time they were feasting on conference food and wine, confused why I sounded so happy about having arrived somewhere to enjoy a sandwich.</em>
 
 It admittedly felt strange to find oneself suddenly so alone, after having been surrounded by summer school students for so long. It was also no wonder my stomach was whining in confusion, as it had been feasting on buffet meals for two weeks!
 
 The next day I was off early to catch the ferry over to the Tróia Peninsula. Man, if I were to do this bike trip again I would take a train straight to this ferry, skipping the first day altogether. The scenery became a hundred fold more beautiful. The white dunes were breathtaking and the roads serene. On the ferry there I met a young Jupiter Traveller on his motorbike. Exciting people. It was a wonderful day riding steadily. Since I needed to turn back the day after to meet Dan and Josh, I knew I wasn't going to reach Sines. Instead I decided to stop at a campsite in the afternoon so that I could finally jump into the ocean. I found the hippie haven, Santo André Lagoon.
 
 <img src="{{ site.baseurl }}/images/portugal/tentshot.jpg" height="30%" width="30%">
-^Tent shot! I love my tent!
+<em>Tent shot! I love my tent!</em>
 
 I love the Portuguese, but they are difficult to eat with: they seemingly eat no breakfast, and have late dinners. Starving, I ended up having another sandwich at sunset. This one was more extravagant - a fish paste sarmie.
 
 <img src="{{ site.baseurl }}/images/portugal/sunsetsandwich2.jpg" height="30%" width="30%">
-^Sunset sandwich # 2: fish paste, with a dab of ocean view.
+<em>Sunset sandwich # 2: fish paste, with a dab of ocean view.</em>
 
 The next day I rode back and treated myself to the fancy beach of the Tróia resort (I can't believe this beach is free!)
 
 <img src="{{ site.baseurl }}/images/portugal/ontheroad.jpg" height="30%" width="30%">
-^Road scene on the way back to Tróia.
+<em>Road scene on the way back to Tróia.</em>
 
 <img src="{{ site.baseurl }}/images/portugal/dunes_and_I.jpg" height="30%" width="30%">
-^Me and my favourite stretch of road: just a spill of white dunes.
+<em>Me and my favourite stretch of road: just a spill of white dunes.</em>
 
 By the end of the day I was back in Lisbon, having the best meal of my trip.
 
 <img src="{{ site.baseurl }}/images/portugal/favouritemeal.jpg" height="30%" width="30%">
-^saliva everywhere, still!
+<em>saliva everywhere, still!</em>
 
 I won't lie I was overjoyed to be with people again when I met Josh and Dan - on a BOAT in the Lisbon harbour!
 
 <img src="{{ site.baseurl }}/images/portugal/onaboat.jpg" height="30%" width="30%">
-^On a boat!
+<em>On a boat!</em>
 
 It took us a day to get sorted and plan Part II of our trip: the Sintra-Cascais region.
 
 The first day was a pleasant straightforward ride along the coast to the Sintra-Cascais Natural Park. We got lucky, as that day the roads had been closed off to cars, and access given to all bikers and pedestrians. Wonderful!
 
 <img src="{{ site.baseurl }}/images/portugal/joshie.jpg" height="30%" width="30%">
-^It seemed to me Joshie did not resist much when he toppled over. Does he not look rather content?  
+<em>It seemed to me Joshie did not resist much when he toppled over. Does he not look rather content?  </em>
 
 We arrived at our camp site, Orbitur Guincho, later that afternoon, with plenty of time to later ride a bit further and watch a fisherman skillfully reel in a fish from the waves crashing against the cliffs at Fort of Guincho.
 
@@ -85,7 +85,7 @@ The following day we decided we've been treating ourselves too well, and took a 
  Just before dusk we managed to find a single pitch climbing area underneath Sintra's Moorish castle. We still talk of Josh's climbing move that involved basically plonking down - mid climbing struggle - on the cliff wall, as Josh tends to do everywhere, to take a rest.
 
  <img src="{{ site.baseurl }}/images/portugal/danclimbing.jpg" height="30%" width="30%">
- ^Climbing below Sintra's Moorish castle.
+ <em>Climbing below Sintra's Moorish castle.</em>
 
 The sunset had weaved golden threads around the tree leaves and stone ruins.
 
