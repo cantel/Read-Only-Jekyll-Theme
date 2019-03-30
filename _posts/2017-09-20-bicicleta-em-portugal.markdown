@@ -13,6 +13,8 @@ I brought along my tent, a hammock, and a sleeping mat. I had rented out a mount
 
 So come Thursday, after getting a good nights sleep in a dark and dodgy hostel room in Lisbon, I had the bike packed, took the ferry across to Seixal and started biking South. I was aiming for Setúbal.
 
+<img src="{{ site.baseurl }}/images/portugal/map.png" height="30%" width="30%">
+
 The first day was harrowing at times: I took the highway straight to Parque Natural da Arrábida. I have only the best to say about Portuguese drivers, as they gave me a lot of space and were very patient. That didn't mean having a truck blast by you whilst on a bike was any less stressful. I got to Sesimbra and started heading West in search of a place to have lunch (there were signs of a lighthouse). I soon realised that this may take too long as I still hoped to reach Setúbal. I instead turned around and headed to the park.
 Arràbida Park was seriously hilly. I had an epic energy crash whilst paddling up one hill. Arms shaking, I stopped and pulled my bike beneath the shade of a small tree, to chow some of my 'emergency stash' nuts.
 
